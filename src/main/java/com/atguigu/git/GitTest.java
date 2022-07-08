@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("测试一些推送可以成功不");
+        System.out.println("测试一下拉取可以成功不");
     }
 }
